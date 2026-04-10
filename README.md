@@ -2,6 +2,7 @@
 
 > *"Mark it. Do it. Done."*
 
+I'm Hemanathan
 A full stack Kanban-style task management app built from scratch with React, Node.js, Express, and MongoDB.
 
 ![Mark-do](https://img.shields.io/badge/React-18-blue) ![Node](https://img.shields.io/badge/Node.js-18-green) ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen) ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
@@ -40,7 +41,7 @@ I built Mark-do because I wanted a clean, distraction-free way to track tasks wi
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/mark-do.git
+git clone https://github.com/Hemanathan1/mark-do.git
 cd mark-do
 ```
 
@@ -94,6 +95,6 @@ Open `http://localhost:5173`
 
 ---
 
-## Author
+## Invented By
 
-**Your Name** — [github.com/yourusername](https://github.com/yourusername)
+**Hemanathan** — [github.com/Hemanathan1](https://github.com/Hemanathan1)
