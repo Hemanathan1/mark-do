@@ -2,8 +2,8 @@
 
 > *"Mark it. Do it. Done."*
 
-I'm Hemanathan
-A full stack Kanban-style task management app built from scratch with React, Node.js, Express, and MongoDB.
+I'm Hemanathan 😁
+I developed a full stack Kanban-style task management app built from scratch with React, Node.js, Express, and MongoDB.
 
 ![Mark-do](https://img.shields.io/badge/React-18-blue) ![Node](https://img.shields.io/badge/Node.js-18-green) ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen) ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 
