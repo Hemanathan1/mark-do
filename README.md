@@ -91,7 +91,7 @@ Open `http://localhost:5173`
 
 ## Live Demo
 
-🔗 **[mark-do.vercel.app](https://mark-do.vercel.app)** ← add your link after deploying
+🔗 **[mark-do.vercel.app](https://mark-do.vercel.app)**
 
 ---
 
